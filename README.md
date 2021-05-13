@@ -14,9 +14,11 @@ Installing Node using NVM
 	npm install -g yarn
 	
 Running this command initializes your project
+
 	npm init
 
 While still in the myapp directory run
+
 	npm install express --save
 
 Run the app
